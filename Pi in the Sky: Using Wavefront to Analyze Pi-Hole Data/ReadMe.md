@@ -1,1 +1,1 @@
-
+This directory contains a presentation called Pi in the Sky: Using Wavefront to Analyze Pi-Hole Data. The presentation was originally given on August 26, 2019 at VMworld US as part of the vBrownBag TechTalks.
